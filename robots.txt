@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /page8653378.html
+Disallow: /header
+Disallow: /page8703598.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://kmiz-luch.ru/sitemap.xml
+Sitemap: http://kmiz-luch.ru/sitemap-feeds.xml
+Host: kmiz-luch.ru
